@@ -13,3 +13,4 @@ class Solution(object):
 
         return maxsofar
         
+####### sliding window doesn't work because when there are two numbers in the aaray and by using sliding window we have to add those number and find the max values 
