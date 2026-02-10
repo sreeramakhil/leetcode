@@ -19,4 +19,5 @@ class Solution(object):
 
 
 
-#################  use lexicographical algorithm for finding the permutation 
+#################  use lexicographical algorithm for finding the permutation by finding the pivot element and then finding it's successor and swaping with these
+
